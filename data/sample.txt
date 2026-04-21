@@ -1,0 +1,5 @@
+Artificial Intelligence (AI) is transforming healthcare by enabling faster diagnosis, personalized treatment plans, and improved patient outcomes. Machine learning models can analyze medical images such as X-rays and MRIs to detect diseases earlier than traditional methods.
+
+In addition, AI is being used in drug discovery to reduce the time required to develop new medications. Large language models are also being used to assist doctors by summarizing patient records and suggesting possible diagnoses based on symptoms.
+
+However, challenges remain around data privacy, bias in models, and regulatory compliance in healthcare AI systems.
